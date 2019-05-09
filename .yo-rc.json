@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Chad Cravens",
+      "authorEmail": "chad.cravens@ossys.com",
+      "authorUrl": "https://www.ossys.com"
+    }
+  }
+}
